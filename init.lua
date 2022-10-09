@@ -8,6 +8,7 @@ require "user.telescope"
 require "user.autopairs"
 require "user.nvim-tree"
 require "user.treesitter"
+require "user.toggleterm"
 
 
 
